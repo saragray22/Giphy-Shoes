@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(to right, steelblue, hotpink);
+}
+
+.allText {
+  font-size: 20px;
+  text-align: right;
+   color: #ffffff;
+}
+
+h1 {
+  color: white
+}
